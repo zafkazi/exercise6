@@ -1,2 +1,2 @@
 print('Hello World')
-print('Madden Goat')
+print('Goat in madden 24 and 2k')
